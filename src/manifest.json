@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "ai.kavel.joplin",
+	"app_min_version": "3.0",
+	"version": "1.0.0",
+	"name": "Kavel AI Image",
+	"description": "Turn the selected text into an AI image with Kavel and insert it into the note. Works on Kavel's free tier with no API key.",
+	"author": "Kavel",
+	"homepage_url": "https://www.kavel.ai/?utm_source=joplin&utm_medium=plugin",
+	"repository_url": "https://github.com/hanshs474/joplin-plugin-kavel",
+	"keywords": ["ai", "image", "image generation", "kavel"],
+	"categories": ["productivity"],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
